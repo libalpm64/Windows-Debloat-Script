@@ -98,4 +98,4 @@ Remove the following applications:
 - **Lock Screen Camera Access**
 
 ---
-This debloat script significantly enhances privacy, removes unwanted bloatware, and improves security measures in Windows.
+This debloat script significantly enhances performance as well; it reduces the service count by a high margin. You can expect to see a few percentages less usage on idle. 
